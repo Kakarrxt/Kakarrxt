@@ -29,15 +29,6 @@
         <td align="right">
             <img src="https://img.shields.io/badge/FastAPI-informational?style=flat&logo=FastAPI&logoColor=white&color=000&labelColor=000000">
             <img src="https://img.shields.io/badge/Flask-informational?style=flat&logo=flask&logoColor=black&color=fff&labelColor=fff">
-            <img src="https://img.shields.io/badge/django-informational?style=flat&logo=django&logoColor=white&color=000&labelColor=000000">
-        </td>
-    </tr>
-    <tr>
-        <td> <b>Microservices</b> </td>
-        <td align="right">
-            <img src="https://img.shields.io/badge/Celery-informational?style=flat&logo=celery&logoColor=white&color=000&labelColor=000000">
-            <img src="https://img.shields.io/badge/RabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=black&color=fff&labelColor=fff">
-            <img src="https://img.shields.io/badge/Kafka-informational?style=flat&logo=apache-kafka&logoColor=white&color=000&labelColor=000000">
         </td>
     </tr>
     <tr>
@@ -46,14 +37,6 @@
             <img src="https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=000&labelColor=000000">
             <img src="https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=black&color=fff&labelColor=fff">
             <img src="https://img.shields.io/badge/SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=000&labelColor=000000">
-        </td>
-    </tr>
-    <tr>
-        <td> <b>NoSQL Databases</b> </td>
-        <td align="right">
-            <img src="https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=000&labelColor=000000">
-            <img src="https://img.shields.io/badge/Redis-informational?style=flat&logo=redis&logoColor=black&color=fff&labelColor=fff">
-            <img src="https://img.shields.io/badge/Elasticsearch-informational?style=flat&logo=elasticsearch&logoColor=white&color=000&labelColor=000000">
         </td>
     </tr>
     <tr>
@@ -81,7 +64,6 @@
             <img src="https://img.shields.io/badge/Google%20Cloud-informational?style=flat&logo=google-cloud&logoColor=black&color=fff&labelColor=fff">
             <img src="https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=000&labelColor=000">
             <img src="https://img.shields.io/badge/Heroku-informational?style=flat&logo=heroku&logoColor=black&color=fff&labelColor=fff">
-            <img src="https://img.shields.io/badge/Vercel-informational?style=flat&logo=vercel&logoColor=white&color=000&labelColor=000000">
         </td>
     </tr>
     <tr>
