@@ -10,7 +10,6 @@
 <br>
 <summary><h2>⚙️ Technologies I Use</h2></summary>
 
-
 <br>
 <br>
 <div align="center">
