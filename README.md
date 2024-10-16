@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kakarrxt&label=Profile%20views&color=0e75b6&style=flat" alt="kakarrxt" /> </p>
 
-- 🔭 I’m currently working on [SentiMotion](https://github.com/Kakarrxt/SentiMotion)
+- 🔭 I’m currently working on [scDEL Calculator](https://github.com/Kakarrxt/scDEL_calculator)
 
 - 📫 How to reach me **guptakanav67@gmail.com**
 </p>
