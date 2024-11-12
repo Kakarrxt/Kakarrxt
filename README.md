@@ -80,5 +80,3 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kakarrxt&show_icons=true&locale=en&layout=compact" alt="kakarrxt" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kakarrxt&" alt="kakarrxt" /></p>
